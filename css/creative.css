@@ -178,8 +178,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
-  background-position: center center;
+  background: url("../img/top.jpg") center center;
   background-size: cover;
 }
 
@@ -316,4 +315,20 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+}
+
+.deliver{
+  background-image: url("../img/truck.png");
+}
+
+.black{
+    text-decoration-color: #ee4b28;
+}
+
+.toppad{
+   margin-top: 500px;
+}
+
+.service{
+    background-image: url("../img/service.jpg");
 }
