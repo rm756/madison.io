@@ -182,7 +182,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background: url("../img/top.jpg") center center;
+  background: url("../img/jakub-kapusnak-296868-unsplash.jpg") center center;
   background-size: cover;
 }
 
@@ -335,4 +335,12 @@ header.masthead p {
 
 .service{
     background-image: url("../img/service.jpg");
+}
+
+.toppadsmall{
+  padding-top: 100px;
+}
+
+.bottompadsmall{
+  padding-bottom: 200px;
 }
