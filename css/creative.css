@@ -59,6 +59,10 @@ h6 {
   color: rgba(255, 255, 255, 0.7);
 }
 
+.boxed {
+  border: 1px solid white ;
+}
+
 section {
   padding: 8rem 0;
 }
